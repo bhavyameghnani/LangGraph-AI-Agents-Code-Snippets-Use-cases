@@ -1,0 +1,527 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 OR 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): October 27, 2025
+Acme Corporation
+(Exact name of registrant as specified in its charter)
+California 333-12345 78-9012345
+(State or other jurisdiction of incorporation) (Commission
+File Number)
+(IRS Employer
+Identification No.)
+123 Main Street, Anytown, California 91234
+(Address of principal executive offices) (Zip Code)
+(555) 555-5555
+(Registrant’s telephone number, including area code)
+N/A
+(Former name or former address, if changed since last report.)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions:
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class Trading Symbol(s) Name of each exchange on which registered
+Common Stock, par value $0.001 per share ACME New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter)
+or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Section 2—Financial Information
+
+Section 2:
+Revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Section 2—Financial Information
+Item 2.02 Results of Operations and Financial Condition
+On November 12, 2024,  SynergyTech Solutions, Inc. (“SynergyTech”) issued a press release announcing financial results for its fiscal second quarter ended October 31, 2024.
+A copy of this press release is furnished as Exhibit 99.1 to this report.
+Section 8—Other Events
+Item 8.01 Other Events
+SynergyTech announced that its Board of Directors has declared a cash dividend of $0.35 per share of outstanding common stock payable on December 18, 2024,
+to stockholders of record as of the close of business on December 4, 2024.
+Section 9—Financial Statements and Exhibits
+Item 9.01 Financial Statements and Exhibits
+(d) Exhibits
+Exhibit No. Description of Exhibit
+99.1 Press Release dated November 12, 2024
+104 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+SYNERGYTECH SOLUTIONS, INC.
+Dated: November 12, 2024 By: /s/ ANNA REID
+Anna Reid
+Senior Vice President and Chief Financial Officer
+(Principal Accounting Officer)
+Exhibit 99.1
+For Immediate Release
+Contact:  Michael Davis     Sarah Chen
+SynergyTech Investor Relations SynergyTech Corporate Communications
+1.408.555.1212          1.650.555.7890
+michael.davis@synergytech.com sarah.chen@synergytech.com
+SynergyTech Announces Fiscal Year 2025 Second Quarter Financial Results
+• Q2 Remaining Performance Obligations $18.7 billion, up 15% in both USD and constant currency
+• Q2 GAAP Earnings per Share up 4% to $0.82, Non-GAAP Earnings per Share up 8% to $1.15
+• Q2 Total Revenue $6.3 billion, up 9% in USD and up 8% in constant currency
+• Q2 Cloud Revenue (IaaS plus SaaS) $2.9 billion, up 22% in USD and up 21% in constant currency
+
+Section 3:
+
+• Q1 Total Revenue: $17.3 billion, up 15% in USD and up 14% in constant currency.
+• Q1 Cloud Revenue (IaaS plus SaaS): $8.9 billion, up 31% in USD and up 30% in constant currency.
+• Q1 Cloud Infrastructure (IaaS) Revenue: $4.1 billion, up 62% in USD and up 60% in constant currency.
+• Q1 Cloud Application (SaaS) Revenue: $4.7 billion, up 18% in USD and up 17% in constant currency.
+• Q1  Apex Cloud ERP (SaaS) Revenue: $1.2 billion, up 22% in USD and up 21% in constant currency.
+• Q1  Nova Cloud ERP (SaaS) Revenue: $1.1 billion, up 19% in USD and up 18% in constant currency.
+
+REDWOOD SHORES, California, November 14, 2025 --  Innovex Corporation (NYSE: INVX) today announced fiscal 2026 Q1 results. Total Remaining Performance Obligations were up 372% year-over-year in both USD and constant currency to $482 billion. Total quarterly revenues increased 15% in USD, and 14% in constant currency to $17.3 billion. Cloud revenues increased 31% in USD and 20% in constant currency to $8.9 billion. Software revenues were down 0.5% in USD and down 1.5% in constant currency to $6.2 billion.
+
+Q1 GAAP operating income was $5.1 billion. Non-GAAP operating income was $7.0 billion, up 11% year-over-year in USD and up 9% in constant currency. GAAP net income was $3.4 billion. Non-GAAP net income was $4.9 billion, up 10% in USD and up 8% in constant currency. Q1 GAAP earnings per share was $1.18, down 1% in USD and down 4% in constant currency. Non-GAAP earnings per share was $1.72, up 8% in USD and up 6% in constant currency.
+
+Short-term deferred revenues were $13.8 billion. Over the last twelve months, operating cash flow was $24.2 billion, up 17% in USD.
+
+“We signed five multi-billion-dollar contracts with four different customers in Q1,” said Innovex CEO,  Elena Ramirez.  “This resulted in RPO contract backlog increasing 372% to $482 billion. It was a remarkable quarter—and demand for Innovex Cloud Infrastructure continues to build.  Over the next…
+
+Section 4:
+
+Backlog increased by 387% to $422 billion.  This was a remarkable quarter, and demand for Xylos Cloud Infrastructure continues to surge.  Over the next few months, we anticipate securing several additional multi-billion-dollar customer agreements, and Remaining Performance Obligations (RPO) are projected to surpass $510 billion. The scale of our recent RPO growth allows for a significant upward revision to the Cloud Infrastructure segment of Xylos Corporation's overall financial forecast, which will be presented comprehensively next month at the Investor Relations Meeting.  As a preview, we project Xylos Cloud Infrastructure revenue to increase by 72% to $17.5 billion this fiscal year—followed by growth to $30 billion, $68 billion, $109 billion, and $137 billion over the subsequent four years.  The majority of the revenue projected within this five-year forecast is already reflected in our reported RPO. Xylos is experiencing a strong start to FY27.
+
+“MultiCloud database revenue from AzureSphere, Nimbus Computing, and Zenith Cloud grew at an exceptional rate of 1,485% in Q1,” stated Xylos Chairman and CTO,  Johnathan Davies. “We expect MultiCloud revenue to exhibit substantial growth each quarter for several years as we deploy an additional 35 datacenters to our three hyperscaler partners, bringing the total to 68.  And next month at Xylos Cloud Summit, we will unveil a new Cloud Infrastructure service, the ‘Xylos AI Database,’ enabling our customers to utilize the Large Language Model of their preference—including  Perseus AI,  AetherMind, and  NovaLang—directly integrated with the Xylos Database for seamless access and analysis of existing database data. This innovative cloud service empowers our tens of thousands of database clients to instantly unlock the value within their data by providing easy access to leading-edge AI reasoning models. Xylos AI Cloud Infrastructure and the Xylos MultiCloud AI Database will both contribute to a dramatic increase in cloud demand and consumption in the coming years. AI is Transforming Everything.”
+
+Section 5:  Financial Highlights and Upcoming Events
+
+The Board of Directors of StellarTech Corporation (STK) declared a quarterly cash dividend of $0.38 per share of outstanding common stock. This dividend will be paid to stockholders of record as of the close of business on December 12, 2024, with a payment date of December 26, 2024.  This dividend reflects the Company's confidence in its strong financial position and anticipated growth in software licensing and cloud subscription revenue streams over the next fiscal year.  StellarTech anticipates continued market share gains driven by the strategic expansion of its flagship product suite, "SynergyOS," and successful penetration into the burgeoning  enterprise automation sector.  The company is well-positioned to capitalize on the increasing demand for integrated, secure cloud solutions.
+
+• A representative sample of customers who subscribed to StellarTech Cloud services during the quarter ended September 30, 2024, is available at www.stellartechcorp.com/customers.
+
+• A summary of recent product enhancements and strategic partnerships is available at www.stellartechcorp.com/news.
+
+• For insights from leading industry analysts regarding StellarTech’s market position and future prospects, please visit www.stellartechcorp.com/analyst-reports.
+
+
+Earnings Conference Call and Webcast
+
+StellarTech will host a conference call and webcast to discuss these results today at 1:00 p.m. Pacific Time.  A live and archived webcast will be accessible on the StellarTech Investor Relations website at www.stellartechcorp.com/investors.
+
+
+About StellarTech Corporation
+
+StellarTech Corporation (STK: NYSE) provides a comprehensive portfolio of enterprise software solutions and secure, scalable cloud infrastructure services. For more detailed information about StellarTech, please visit www.stellartechcorp.com.
+
+###
+
+Trademarks
+
+StellarTech, SynergyOS, and DataStream are registered trademarks of StellarTech Corporation.  DataStream is a leading provider of real-time data analytics solutions, enhancing StellarTech's position as a comprehensive technology provider.
+
+"Safe Harbor" Statement:  Statements contained in this press release that are not historical facts, including statements regarding StellarTech’s future financial performance, product development plans, market opportunities, and anticipated growth in cloud revenue, are "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. These statements involve risks and uncertainties that could cause actual results to differ materially from those anticipated.  Such risks and uncertainties include, but are not limited to: competition in the technology industry, the success of new product launches, the ability to integrate acquired technologies, and general economic conditions.  Further information on these and other factors that could affect StellarTech’s financial results is included in the Company’s filings with the Securities and Exchange Commission.
+
+Section 6:  Forward-Looking Statements and Risk Factors
+
+This press release contains forward-looking statements regarding, among other things,  our ability to successfully develop and launch new software solutions and integrate recently acquired assets;  the successful integration of acquired technologies into our existing product portfolio, including our advanced analytics platform; the effective management of our complex cloud infrastructure, including the procurement and deployment of critical components like specialized processors; our capacity planning and management of data center resources; the potential for material defects in our software or hardware; risks inherent in mergers and acquisitions; the inherent volatility of our business and the associated risks of government contracts; the impact of macroeconomic conditions, geopolitical instability, and international trade policies; the risk of information technology system failures and breaches of data security; the possibility of unfavorable legal outcomes or regulatory investigations; and the impact of evolving legal and regulatory landscapes.  A more detailed discussion of these and other factors that could materially affect our financial performance is included in our filings with the Securities and Exchange Commission (SEC), including our most recent reports on Form 10-K and Form 10-Q, specifically within the section entitled "Risk Factors." These filings are available online through the SEC's EDGAR database or by contacting the Investor Relations department of  Acme Corporation at (408) 555-1212 or by visiting the Investor Relations section of our website at www.acmecorp.com/investors.  The information provided in this press release is accurate as of October 26, 2025.  Acme Corporation disclaims any obligation to update any forward-looking statements to reflect new information or future events.
+
+
+1
+ACME CORPORATION
+Q1 FISCAL 2026 FINANCIAL RESULTS
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+($ in millions, except per share data)
+Three Months Ended November 30,
+%
+Increase
+% Increase
+(Decrease)
+2025
+% of
+Revenues 2024
+% of
+Revenues
+(Decrease
+)
+in US $
+in Constant
+Currency
+(1)
+REVENUES
+Cloud $ 8,250 45% $ 6,100 40% 35% 33%
+Software 6,875 39% 6,925 42% (1%) 0%
+Hardware 720 4% 700 4% 3% 2%
+
+Section 7:
+
+**2025**
+**% of Revenues**  **2024**
+**% of Revenues**
+**(Decrease)**
+**in US $**
+**in Constant Currency** (1)
+
+**REVENUES**
+Cloud $8,412 49% $6,875 46% 22% 21%
+Software $6,250 36% $6,318 42% (1%) (1%)
+Hardware $705 4% $712 5% (1%) (1%)
+Services $1,521 9% $1,488 10% 2% 2%
+Total revenues $16,888 100% $15,393 100% 10% 9%
+
+**OPERATING EXPENSES**
+Cloud and software $4,108 24% $3,015 20% 36% 35%
+Hardware $195 1% $182 1% 7% 6%
+Services $1,210 7% $1,285 8% (6%) (6%)
+Sales and marketing $2,375 14% $2,340 15% 2% 1%
+Research and development $2,788 16% $2,621 17% 6% 6%
+General and administrative $402 2% $398 3% 1% 0%
+Amortization of intangible assets $515 3% $750 5% (31%) (31%)
+Acquisition related and other $18 0% $17 0% 6% 5%
+Restructuring $480 3% $95 1% 405% 395%
+Total operating expenses $11,991 71% $10,203 66% 18% 17%
+
+**OPERATING INCOME** $4,897 29% $5,190 34% (6%) (7%)
+Interest expense ($985) (6%) ($878) (6%) 12% 12%
+Non-operating income, net $82 0% $25 0% 228% 220%
+INCOME BEFORE INCOME TAXES $4,000 24% $4,337 28% (8%) (9%)
+Provision for income taxes ($550) 3% ($280) 2% 96% 92%
+NET INCOME $3,450 20% $4,057 26% (15%) (16%)
+
+**EARNINGS PER SHARE:**
+Basic $1.15 $1.35
+Diluted $1.12 $1.32
+**WEIGHTED AVERAGE COMMON SHARES OUTSTANDING:**
+Basic 3,000 3,005
+Diluted 3,071 3,070
+
+(1) We compare the percent change in the results from one period to another period using constant currency disclosure. We present constant currency information to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars at the exchange rates in effect on November 30, 2025, which was the last day of our prior fiscal year, rather than the actual exchange rates in effect during the respective periods. Movements in international currencies relative to the United States dollar during the three months ended February 28, 2026 compared with…
+
+Section 8:
+
+Respective periods. Fluctuations in foreign exchange rates relative to the United States dollar during the three months ended August 31, 2025, compared with the corresponding prior year period, increased our total revenues by 1 percentage point and operating income by 3 percentage points.
+
+(2) Provision for income taxes for the first quarter of fiscal 2026 includes the impact of the  American Innovation and Growth Act, which was signed into law on June 15, 2025.
+
+GLACIER CORPORATION
+Q1 FISCAL 2026 FINANCIAL RESULTS
+
+RECONCILIATION OF SELECTED GAAP MEASURES TO NON-GAAP MEASURES (1)
+($ in millions, except per share data)
+Three Months Ended August 31,
+% Increase (Decrease)
+in US $
+% Increase (Decrease)
+in
+Constant Currency (2)
+2025
+GAAP Adj.
+2025
+NonGAAP
+2024
+GAAP Adj.
+2024
+NonGAAP GAAP
+NonGAAP GAAP
+NonGAAP
+TOTAL REVENUES
+$
+12,487 $ — $
+12,487 $
+11,273 $ — $
+11,273 11% 11% 10% 10%
+TOTAL OPERATING EXPENSES $
+8,922 $ (1,542) $ 7,380 $ 8,159 $ (1,387) $ 6,772 9% 9% 9% 9%
+Stock-based compensation (3) 987 (987) — 876 (876) — 13% * 13% *
+Amortization of intangible assets (4) 375 (375) — 512 (512) — (27%) * (27%) *
+Acquisition related and other 11 (11) — 10 (10) — 10% * 10% *
+Restructuring 318 (318) — 65 (65) — 389% * 389% *
+OPERATING INCOME $ 3,565 $ 1,542 $ 5,107 $ 3,114 $ 1,387 $ 4,501 15% 11% 13% 10%
+OPERATING MARGIN % 29% 38% 28% 39% (100) bp. (100) bp. (110) bp. (110) bp.
+INCOME TAX EFFECTS (5) $ 450 $ 520 $ 970 $ 210 $ 580 $ 790 114% 18% 113% 17%
+NET INCOME $ 2,565 $ 1,022 $ 3,587 $ 2,254 $ 807 $ 3,061 14% 27% 14% 27%
+DILUTED EARNINGS PER SHARE $ 0.98 $ 1.25 $ 1.00 $ 1.12 (2%) 18% (2%) 17%
+DILUTED WEIGHTED AVERAGE COMMON SHARES
+OUTSTANDING 2,621 — 2,621 2,012 — 2,012 30% 30% 30% 30%
+(1) This presentation includes non-GAAP measures. Our non-GAAP measures are not meant to be considered in isolation or as a substitute for comparable GAAP measures,
+
+Section 9: Non-GAAP Financial Measures and Other Disclosures
+
+(1) This presentation includes non-GAAP financial measures.  These non-GAAP measures are not intended to be considered in isolation or as a substitute for comparable GAAP measures, and should be read only in conjunction with our consolidated financial statements prepared in accordance with GAAP.  A detailed reconciliation of these non-GAAP measures to the most directly comparable GAAP measures, as well as a discussion of the reasons management uses these measures, their usefulness, and their material limitations, is included in Appendix A.
+
+(2)  We utilize constant currency presentation to compare percentage changes in results between periods. This constant currency information is provided to offer a framework for evaluating the performance of our underlying businesses, excluding the impact of fluctuations in foreign currency exchange rates. To achieve this, current and comparative prior period results for entities reporting in currencies other than the United States dollar are translated into United States dollars using the exchange rates in effect as of November 30, 2024, the last day of our prior fiscal year, rather than the actual exchange rates prevailing during the respective periods.
+
+(3) Stock-based compensation expense was included in the following GAAP operating expense categories:
+
+Three Months Ended
+October 31, 2025    Three Months Ended
+October 31, 2024
+
+                    GAAP      Adj.     Non-GAAP   GAAP      Adj.     Non-GAAP
+Cloud and Software   $217       $(217)     $—       $193       $(193)    $—
+Hardware             $12        $(12)      $—       $10        $(10)     $—
+Services             $78        $(78)      $—       $65        $(65)     $—
+Sales & Marketing    $255       $(255)     $—       $231       $(231)    $—
+Research & Development $842       $(842)     $—       $768       $(768)    $—
+General & Administrative $115       $(115)     $—       $107       $(107)    $—
+Total Stock-Based Compensation $1,519     $(1,519)    $—       $1,374     $(1,374)   $—
+
+
+(4) Estimated future annual amortization expense related to intangible assets as of October 31, 2025, is as follows:
+
+Remainder of fiscal 2026  $1,872
+Fiscal 2027                 $1,035
+Fiscal 2028                 $988
+Fiscal 2029                 $891
+Fiscal 2030                 $815
+Fiscal 2031                 $507
+Thereafter                  $349
+Total Intangible Assets, Net $6,457
+
+Section 10:
+
+Remainder of fiscal 2026	$873
+Fiscal 2027	$489
+Fiscal 2028	$462
+Fiscal 2029	$408
+Fiscal 2030	$381
+Fiscal 2031	$241
+Thereafter	$167
+Total intangible assets, net	$2,521
+
+(5) Income tax effects were calculated reflecting an effective GAAP tax rate of 13.2% and 8.1% in the first quarter of fiscal 2026 and 2025, respectively, and an effective non-GAAP tax rate of 19.7% and 17.4% in the first quarter of fiscal 2026 and 2025, respectively. The difference in our GAAP and non-GAAP tax rates in the first quarter of fiscal 2026 was primarily due to the net tax effects related to stock-based compensation expense; acquisition-related and other items, including the tax effects on amortization of intangible assets; and restructuring expense, partially offset by the impact of the  Innovation and Growth Act (refer to Appendix A for additional information), and net deferred tax effects related to an income tax benefit that was previously recorded due to the partial realignment of our legal entity structure. The difference in our GAAP and non-GAAP tax rates in the first quarter of fiscal 2025 was primarily due to the net tax effects related to stock-based compensation expense; acquisition-related and other items, including the tax effects on amortization of intangible assets; and restructuring expense, partially offset by the net deferred tax effects related to an income tax benefit that was previously recorded due to the partial realignment of our legal entity structure.
+
+
+* Not meaningful
+
+**CONDENSED CONSOLIDATED BALANCE SHEETS**
+($ in millions)
+
+**August 31,**
+**2025**	**May 31,**
+**2025**
+
+**ASSETS**
+
+**Current Assets:**
+
+Cash and cash equivalents	$7,295	$7,512
+Marketable securities	$398	$311
+Trade receivables, net	$6,154	$6,002
+Prepaid expenses and other current assets	$3,827	$3,798
+Total Current Assets	$17,674	$17,623
+
+**Non-Current Assets:**
+
+Property, plant and equipment, net	$41,876	$34,219
+Intangible assets, net	$2,521	$2,738
+Goodwill	$52,983	$52,977
+
+Section 11:
+
+Total Current Assets          $27,845        $26,192
+Non-Current Assets:
+Property, plant and equipment, net     $58,912        $49,257
+Intangible assets, net          $3,876         $4,128
+Goodwill                        $65,500        $65,498
+Deferred tax assets             $12,381        $12,611
+Other non-current assets       $26,219        $22,875
+Total Non-Current Assets       $166,888       $154,369
+TOTAL ASSETS                    $194,733       $180,561
+
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current Liabilities:
+Notes payable and other borrowings, current $ 9,522        $ 7,815
+Accounts payable                $7,985         $5,482
+Accrued compensation and related benefits $1,629         $2,007
+Deferred revenues               $11,870        $9,054
+Other current liabilities       $8,950         $8,821
+Total Current Liabilities       $39,956        $33,179
+Non-Current Liabilities:
+Notes payable and other borrowings, non-current $85,174        $88,329
+Income taxes payable            $10,937        $10,512
+Operating lease liabilities      $13,562        $11,288
+Other non-current liabilities   $9,208         $7,924
+Total Non-Current Liabilities   $118,881       $118,053
+Stockholders’ Equity            $35,896        $29,329
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY $194,733       $180,561
+
+
+4
+XYZ CORPORATION
+Q1 FISCAL 2027 FINANCIAL RESULTS
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+($ in millions)
+Three Months Ended November 30,
+2026     2025
+Cash Flows From Operating Activities:
+Net income                        $3,154         $3,087
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation                      $1,428         $889
+Amortization of intangible assets $455          $651
+Deferred income taxes             $542          $(128)
+Stock-based compensation          $1,205         $1,052
+Other, net                        $182          $145
+Changes in operating assets and liabilities:
+Increase in trade receivables, net $(271)        $(95)
+Decrease in prepaid expenses and other assets $68           $392
+Decrease in accounts payable and other liabilities $(367)       $(508)
+(Decrease) increase in income taxes payable $(418)        $29
+Increase in deferred revenues     $2,685         $2,411
+Net cash provided by operating activities $8,576         $7,727
+Cash Flows From Investing Activities:
+Purchases of marketable securities and other investments $(498)        $(512)
+Proceeds from sales and maturities of marketable securities and other investments $283          $18
+
+Section 12: Cash Flows From Investing Activities
+
+Purchases of marketable securities and other investments    (385)     (412)
+Proceeds from sales and maturities of marketable securities and other investments     178       25
+Capital expenditures                     (7,209)    (1,987)
+Net cash used for investing activities          (7,416)    (2,374)
+
+Cash Flows From Financing Activities:
+
+Payments for repurchases of common stock             (112)     (185)
+Proceeds from issuances of common stock              957       122
+Shares repurchased for tax withholdings upon vesting of restricted stock-based awards   (21)      (768)
+Payments of dividends to stockholders              (1,254)   (987)
+Repayments of commercial paper, net                 (201)     (333)
+Proceeds from issuances of term loan credit agreements —       4,872
+Repayments of senior notes and other borrowings      (917)     (6,541)
+Other financing activities, net                     1,528     (211)
+Net cash provided by (used for) financing activities    193      (5,713)
+Effect of exchange rate changes on cash and cash equivalents     19       72
+Net (decrease) increase in cash and cash equivalents    (7,030)   (7,905)
+Cash and cash equivalents at beginning of period   12,582    20,487
+Cash and cash equivalents at end of period          $5,552     $12,582
+
+
+5
+KINETIC SOLUTIONS INC.
+Q1 FISCAL 2027 FINANCIAL RESULTS
+FREE CASH FLOW - TRAILING 4-QUARTERS (1)
+($ in millions)
+Fiscal 2026 Fiscal 2027
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+GAAP Operating Cash Flow $ 17,842 $ 18,965 $ 19,478 $ 19,631 $ 20,311
+Capital Expenditures (6,125) (8,912) (12,411) (18,555) (24,118)
+Free Cash Flow $ 11,717 $ 10,053 $ 7,067 $ 1,076 $ (3,807)
+Operating Cash Flow % Growth over prior year 7% 16% 12% 11% 14%
+Free Cash Flow % Growth over prior year 15% (14%) (30%) (85%) (136%)
+GAAP Net Income $ 9,578 $ 10,211 $ 10,789 $ 11,054 $ 11,042
+Operating Cash Flow as a % of Net Income 186% 186% 180% 177% 184%
+Free Cash Flow as a % of Net Income 122% 99% 66% 10% (34%)
+(1) To supplement our statements of cash flows presented on a GAAP basis, we use non-GAAP measures of cash flows on a trailing 4-quarter basis to analyze cash flow performance.
+
+Section 13: Non-GAAP Financial Measures
+
+(1) To supplement our statements of cash flows prepared in accordance with generally accepted accounting principles (GAAP), we utilize non-GAAP measures of cash flow on a trailing four-quarter basis to assess cash flow generated from operating activities.  We believe that free cash flow, a non-GAAP measure, provides a useful benchmark for comparing our performance against competitors.  The presentation of non-GAAP free cash flow should not be viewed in isolation or as a substitute for net income as an indicator of our overall performance, nor should it be considered a replacement for cash flows from operating activities as a measure of liquidity.
+
+
+XYZ CORPORATION
+Q1 FISCAL YEAR 2027 FINANCIAL RESULTS
+SUPPLEMENTAL ANALYSIS OF GAAP REVENUES (1)
+($ in millions)
+
+Fiscal Year 2026	Fiscal Year 2027
+Q1	Q2	Q3	Q4	TOTAL	Q1	Q2	Q3	Q4	TOTAL
+
+REVENUES BY OFFERINGS
+Cloud	$3,872	$4,019	$4,253	$4,621	$16,765	$4,803	$4,803	
+Software Licenses	$615	$838	$792	$1,457	$3,602	$682	$682	
+Software Support	$3,219	$3,187	$3,112	$3,264	$12,782	$3,295	$3,295	
+Software	$3,834	$4,025	$3,904	$4,721	$16,484	$3,918	$3,918	
+Hardware	$532	$587	$561	$703	$2,383	$599	$599	
+Services	$1,018	$1,071	$1,045	$1,102	$4,236	$1,127	$1,127	
+
+Total Revenues	$13,100	$13,727	$13,667	$16,068	$56,562	$15,424	$15,424
+
+
+AS REPORTED REVENUE GROWTH RATES
+Cloud	18%	20%	22%	25%	21%	25%	25%
+Software Licenses	12%	3%	(6%)	19%	7%	(10%)	(10%)
+Software Support	(1%)	(1%)	(2%)	(1%)	(0%)	(1%)	(1%)
+Software	(1%)	(1%)	(3%)	(1%)	(0%)	(1%)	(1%)
+Hardware	(7%)	(4%)	(5%)	(1%)	(5%)	(1%)	(1%)
+Services	(8%)	(3%)	(2%)	(1%)	(4%)	(3%)	(3%)
+Total Revenues	8%	10%	8%	14%	10%	12%	12%
+
+CONSTANT CURRENCY REVENUE GROWTH RATES (2)
+Cloud	19%	21%	23%	26%	22%	26%	26%
+Software Licenses	14%	5%	(4%)	21%	9%	(8%)	(8%)
+Software Support	(0%)	(0%)	(1%)	(0%)	(0%)	(0%)	(0%)
+Software	(0%)	(0%)	(1%)	(0%)	(0%)	(0%)	(0%)
+Hardware	(6%)	(2%)	(3%)	(0%)	(3%)	(0%)	(0%)
+Services	(7%)	(2%)	(1%)	(0%)	(3%)	(2%)	(2%)
+Total Revenues	9%	11%	9%	15%	11%	13%	13%
+
+CLOUD REVENUES BY OFFERINGS
+Cloud Applications	$2,412	$2,501	$2,628	$2,881	$10,422	$2,997	$2,997
+Cloud Infrastructure	$1,460	$1,518	$1,625	$1,740	$6,343	$1,806	$1,806
+Total Cloud Revenues	$3,872	$4,019	$4,253	$4,621	$16,765	$4,803	$4,803
+
+Section 14: Cloud Revenues
+
+Cloud Applications
+$4,182  $4,257  $4,315  $4,508  $4,621  $4,789  $4,789
+Cloud Infrastructure
+$2,875  $3,154  $3,382  $3,791  $3,954  $4,203  $4,203
+Total Cloud Revenues $7,057  $7,411  $7,697  $8,299  $8,575  $8,992  $8,992
+
+Reported Revenue Growth Rates
+Cloud Applications 8%  9%  7%  11%  9%  10%  10%
+Cloud Infrastructure 15% 18% 17% 19% 18% 20%  20%
+Total Cloud Revenues 12% 14% 13% 16% 14% 16% 16%
+
+Constant Currency Revenue Growth Rates (2)
+Cloud Applications 8%  9%  7%  11%  9%  10%  10%
+Cloud Infrastructure 16% 18% 18%  19%  18%  20%  20%
+Total Cloud Revenues 13% 14% 14% 16% 15% 16%  16%
+
+Geographic Revenues
+Americas
+$9,851  $10,327  $10,488  $11,235  $11,792  $12,115  $12,115
+Europe/Middle East/Africa
+$3,562  $3,718  $3,781  $4,276  $4,412  $4,557  $4,557
+Asia Pacific
+$1,937  $1,995  $2,011  $2,189  $2,254  $2,311  $2,311
+Total Revenues $15,350 $16,040 $16,280 $17,700 $18,458 $18,983 $18,983
+
+(1) The sum of the quarterly information presented may vary from the year-to-date information presented due to rounding.
+
+(2) We compare the percent change in the results from one period to another period using constant currency disclosure.  We present constant currency information to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars at the exchange rates in effect on May 31, 2026 and 2025 for the fiscal 2027 and fiscal 2026 constant currency growth rate calculations presented, respectively, rather than the actual exchange rates in effect during the respective periods.
+
+
+APPENDIX A
+Acme Corporation
+Q1 Fiscal 2027 Financial Results
+Explanation of Non-GAAP Measures
+To supplement our financial results presented on a GAAP basis, we use the non-GAAP measures indicated in the tables, which exclude certain business…
+
+Section 15:
+
+**Explanation of Non-GAAP Measures**
+
+To supplement our financial results presented in accordance with Generally Accepted Accounting Principles (GAAP), we utilize certain non-GAAP financial measures as detailed in the accompanying tables.  These measures exclude specific items, including charges related to business combinations and associated acquisition expenses, as well as stock-based compensation expense. We believe these exclusions are helpful in understanding our past financial performance and in forecasting future results.  It is important to note that our non-GAAP financial measures are not intended to be viewed in isolation or as a substitute for comparable GAAP measures.  They should be considered only in conjunction with our consolidated financial statements prepared in accordance with GAAP.
+
+Our management team regularly uses these supplemental non-GAAP financial measures internally for operational decision-making, business management, and performance evaluation. These non-GAAP measures are key factors considered in our planning and forecasting processes for future periods.  A portion of our executive compensation is tied to the company's performance as measured by these non-GAAP metrics.  The non-GAAP financial measures reflect adjustments for the following items, and the related income tax effects (except for the impact of the provisions of the  "Accelerated Growth and Investment Act"):
+
+*   **Stock-Based Compensation Expense:** The effect of stock-based compensation expense has been excluded from our non-GAAP operating expenses, income tax expense, and net income. While stock-based compensation is a critical component of our employee incentive programs, and we believe it has materially contributed to revenue generation in past periods and will continue to do so in future periods, we believe evaluating our business performance excluding this expense provides valuable insights.  We anticipate ongoing stock-based compensation expense in future periods.  The exclusion of this expense is consistent with the practices of many companies in our industry.
+
+Section 16: Non-GAAP Financial Measures
+
+To provide a more comprehensive understanding of our core operating performance, we present certain non-GAAP financial measures.  These measures exclude the impact of certain items that we believe are not indicative of our ongoing operating results.  Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in Appendix A.
+
+• Stock-Based Compensation: We have excluded the effect of stock-based compensation expense from our non-GAAP operating expenses, income tax effects, and net income measures.  Stock-based compensation expense is a non-cash item and its impact can vary significantly from period to period depending on factors such as share price volatility and the vesting of stock options.  Stock-based compensation expense is expected to continue in future periods.
+
+• Amortization of Intangible Assets: We have excluded the effect of amortization of intangible assets from our non-GAAP operating expenses, income tax effects, and net income measures. The amount and timing of amortization of intangible assets are inherently unpredictable and are significantly influenced by the nature and timing of acquisitions.  The amortization expense reflects the allocation of the cost of acquired intangible assets over their estimated useful lives. Investors should note that the acquired intangible assets contributed to revenues during the periods presented and are expected to continue contributing to future revenue. Amortization of intangible assets is expected to recur in future periods.
+
+• Acquisition-Related and Other Expenses; and Restructuring Expenses: We have excluded the effect of acquisition-related and other expenses, and restructuring expenses from our non-GAAP operating expenses, income tax effects, and net income measures.  These expenses are associated with acquisitions completed during the periods presented, and include expenses related to integrating acquired businesses and implementing strategic initiatives. Acquisition-related expenses included professional fees, integration costs, and employee-related expenses.  Restructuring expenses primarily consisted of employee severance payments and facility closure costs associated with streamlining operations.  While the magnitude of these expenses may vary from period to period, we expect to incur similar expenses in connection with future acquisitions and strategic initiatives. We believe that presenting these measures enhances investor understanding of our underlying operating performance.
+
+Section 17:  Significant Transactions and Other Matters
+
+In connection with potential future acquisitions and strategic initiatives, the Company anticipates incurring various expenses, including but not limited to transaction advisory fees, legal and accounting costs, and integration expenses.  The nature and magnitude of such expenses will depend on the specific circumstances of each transaction.
+
+
+• Impact of the Comprehensive Tax Reform Act of 2025 (CTRA): The CTRA was enacted on August 15, 2025.  During the first quarter of fiscal year 2026, the Company recorded a net tax expense of $785 million, primarily attributable to the remeasurement of a deferred tax liability originally established in fiscal year 2021. This remeasurement resulted from the Company's restructuring of its international subsidiaries, completed in the fourth quarter of fiscal year 2025.  The impact of this one-time charge has been excluded from the Company's non-GAAP measures of income tax expense and net income for the first quarter of fiscal year 2026.  The Company believes that this exclusion provides a more accurate reflection of its underlying operating performance and facilitates meaningful comparison to prior periods.  The Company is confident that its adjusted non-GAAP metrics reflect the ongoing operational strength of the business, independent of this non-recurring tax impact.
